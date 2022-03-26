@@ -7,7 +7,7 @@
 
 [![Dipoengoro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipoengoro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dipoengoro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dipoengoro&theme=radical)](https://github.com/dipoengoro/github-readme-stats)
+[![Dipoengoro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dipoengoro&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 dipoengoro/dipoengoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
