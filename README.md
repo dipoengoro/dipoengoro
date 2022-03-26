@@ -3,10 +3,11 @@
 - 🌱 I’m currently learning Android Kotlin
 - 📫 How to reach me dipoengoro@outlook.com
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dipoengoro&count_private=true&theme=tokyonight&showicons=true)]()
+[![Dipoengoro's Github stats](https://github-readme-stats.vercel.app/api/?username=dipoengoro&count_private=true&theme=radical&show_icons=true)](https://github.com/dipoengoro/github-readme-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dipoengoro&langs_count=5&theme=tokyonight)]()
+[![Dipoengoro's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipoengoro&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Dipoengoro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dipoengoro&theme=radical)](https://github.com/dipoengoro/github-readme-stats)
 
 <!---
 dipoengoro/dipoengoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
